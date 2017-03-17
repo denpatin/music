@@ -373,6 +373,12 @@
 │   │   └── 09 Avec Elle.m4a
 │   └── Version Intégrale
 │       └── 06 Salutations Distinguées.m4a
+├── Gary Moore
+│   └── Run for Cover
+│       └── 04 Empty Rooms.mp3
+├── Genesis
+│   └── Archive #1 (1967-1975)
+│       └── 3-02 Firth Of Fifth (Live).mp3
 ├── Glee Cast
 │   └── Total Eclipse Of The Heart (Glee Cast Version) [feat. Jonathan Groff] - Single (Glee Cast Version) [feat. Jonathan Groff] - Single
 │       └── 01 Total Eclipse Of The Heart.mp3
@@ -949,11 +955,13 @@
 │   └── Asi soy ... y que !!!
 │       └── 04 When I'm Gone.mp3
 ├── Sonata Arctica
-│   └── Ecliptica-Revisited_15th Anniversary Edition
-│       ├── 01 Blank File.m4a
-│       ├── 02 My Land.m4a
-│       ├── 04 Replica.m4a
-│       └── 05 Kingdom For A Heart.m4a
+│   ├── Ecliptica-Revisited_15th Anniversary Edition
+│   │   ├── 01 Blank File.m4a
+│   │   ├── 02 My Land.m4a
+│   │   ├── 04 Replica.m4a
+│   │   └── 05 Kingdom For A Heart.m4a
+│   └── Reckoning Night
+│       └── 05 Don't Say a Word.mp3
 ├── Sophie Ellis-Bextor
 │   └── Wanderlust
 │       ├── 01 Birth Of An Empire.m4a
@@ -1401,8 +1409,10 @@
 │   └── Карындаш
 │       └── 01 Карындаш.mp3
 ├── Торба-на-Круче
-│   └── 57 параллель
-│       └── 01 Друг.m4a
+│   ├── 57 параллель
+│   │   └── 01 Друг.m4a
+│   └── Не псих
+│       └── 08 Труба.mp3
 ├── Уладзімір Мулявін
 │   └── Unknown Album
 │       └── 17 Малітва.mp3
@@ -1479,4 +1489,4 @@
     └── Tsuki Akari
         └── 01 月灯り.mp3
 
-502 directories, 977 files
+508 directories, 981 files

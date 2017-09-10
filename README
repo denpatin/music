@@ -371,6 +371,8 @@
 ├── Flёur
 │   ├── Всё вышло из-под контроля
 │   │   └── 04 Память.mp3
+│   ├── Прикосновение
+│   │   └── 09 Колыбельная для Солнца.mp3
 │   └── Штормовое предупреждение
 │       ├── 02 Железо поёт.m4a
 │       └── 04 Кислород.m4a
@@ -641,6 +643,11 @@
 │       ├── 05 Saint-Saëns_ Piano Concerto #2 in G minor, Op. 22 - 1. Andante sostenuto.m4a
 │       ├── 06 Saint-Saëns_ Piano Concerto #2 in G minor, Op. 22 - 2. Allegro scherzando.m4a
 │       └── 07 Saint-Saëns_ Piano Concerto #2 in G minor, Op. 22 - 3. Presto.m4a
+├── Jennifer Lopez
+│   └── Brave
+│       ├── 02 Forever.m4a
+│       ├── 04 Do It Well.mp3
+│       └── 12 Brave.m4a
 ├── KG Megga ft. Нурик
 │   └── Бир өзүңө
 │       └── 01 Бир өзүңө.mp3
@@ -792,6 +799,10 @@
 │   │   ├── 02 Konstrukt.m4a
 │   │   ├── 03 Nihil.m4a
 │   │   └── 10 Nekrolog.m4a
+│   ├── Königreich Der Angst
+│   │   ├── 03 Blaue Grenze.mp3
+│   │   ├── 09 Untergang.mp3
+│   │   └── 10 Bei Mir.mp3
 │   ├── Melancholia
 │   │   ├── 01 Die Welt zerbricht.m4a
 │   │   ├── 04 Zur Sonne.m4a
@@ -895,6 +906,15 @@
 │   └── Новый альбом
 │       ├── 05 Вселенная бесконечна_.mp3
 │       └── 06 Жадина.mp3
+├── Nox
+│   ├── Most!
+│   │   ├── 02 Ne Mondjátok.....m4a
+│   │   ├── 03 Csillagos Ég.m4a
+│   │   ├── 05 Ne Várj, Ne Sírj.m4a
+│   │   ├── 09 Mások Voltunk.m4a
+│   │   └── 11 Álom Már.m4a
+│   └── Ragyogás
+│       └── 01 Forogj Világ!.m4a
 ├── ON_OFF
 │   ├── ふたつの鼓動と赤い罪
 │   │   ├── 01 二つの鼓動と赤い罪.mp3
@@ -947,13 +967,20 @@
 │   └── Revolution Roulette
 │       └── 11 Where Do We Draw The Line.m4a
 ├── Profanum
-│   └── Musaeum Esotericum
-│       ├── 01 Ecce Deliquium Lunae_ Ars Magna Et Ultima.m4a
-│       └── 02 Ecce Deliquium Lunae_ Atri Misanthropiae Floris.m4a
+│   ├── Misantropiac Floris
+│   │   └── 06 Unspoken Name of God.mp3
+│   ├── Musaeum Esotericum
+│   │   ├── 01 Ecce Deliquium Lunae_ Atri Misanthropiae Floris.m4a
+│   │   └── 02 Ecce Axis Mundi_ Ars Magna et Ultima.m4a
+│   └── Profanum Aeternum_ Eminence of Satanic Imperial Art
+│       ├── 04 Raven Singing Over My Closed Eyes.mp3
+│       └── 05 Journey Into the Nothingness.mp3
 ├── Qaraqan
-│   └── Unknown Album
-│       ├── 01 Bir.mp3
-│       ├── 01 Gəl Gedək.mp3
+│   ├── Bir
+│   │   └── 01 Bir.mp3
+│   ├── Gəl Gedək
+│   │   └── 01 Gəl Gedək.mp3
+│   └── Mən və sən
 │       └── 01 Mən və sən.mp3
 ├── Quvenzhané Wallis
 │   └── Annie Film Soundtrack
@@ -1096,6 +1123,9 @@
 │   │   └── 06 Życie jak poemat.mp3
 │   └── Powołanie
 │       └── 05 Będę sobą.mp3
+├── T-Pablow & YZERR
+│   └── Life Style
+│       └── 01 Life Style.mp3
 ├── TUBE
 │   └── プロポーズ
 │       └── 01 プロポーズ.mp3
@@ -1132,6 +1162,9 @@
 ├── Trio Sucupira
 │   └── Até o dia clarear
 │       └── 01 Até o dia clarear.mp3
+├── Troye Sivan
+│   └── Blue Neighbourhood
+│       └── 07 TALK ME DOWN.m4a
 ├── Twelve Titans Music
 │   └── Maze Runner_ The Scorch Trials (Trailer)
 │       └── 01 Mercenary.mp3
@@ -1477,6 +1510,9 @@
 │   │   └── 01 Сени сүйөм.mp3
 │   └── Суранамын, кечир мени.._
 │       └── 01 Суранамын, кечир мени....mp3
+├── Муслим Магомаев
+│   └── Благодарю тебя
+│       └── 19 Лучший город земли.m4a
 ├── Николай Носков
 │   └── Пропавшим без вести
 │       └── 01 Пропавшим без вести.mp3
@@ -1491,6 +1527,9 @@
 │   └── Земля
 │       ├── 06 Стріляй.m4a
 │       └── 07 Обійми.m4a
+├── Олег Газманов
+│   └── Песни Победы
+│       └── 02 Москва.m4a
 ├── Олег Митяев
 │   └── Волгари
 │       └── 19 Санкт-Петербург.m4a
@@ -1508,6 +1547,9 @@
 ├── Союз созидающих
 │   └── Рубеж
 │       └── 01 Слишком хорош, чтобы жить....mp3
+├── Сплин
+│   └── Раздвоение личности
+│       └── 02 Скажи.mp3
 ├── Сурганова и Оркестр
 │   ├── #МируМир
 │   │   ├── 02 Сердце Юла.m4a
@@ -1664,4 +1706,4 @@
     └── 雙面飛輪海
         └── 07 心裡有數.mp3
 
-599 directories, 1065 files
+620 directories, 1086 files

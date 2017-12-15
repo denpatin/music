@@ -214,6 +214,18 @@
 ├── Celine Dion
 │   └── D'eux _ S'il suffisait d'aimer
 │       └── 2-01 Je crois toi.m4a
+├── Claudio Abbado, Berliner Philharmoniker
+│   ├── Mahler_ Symphony No.7
+│   │   ├── 01 Mahler_ Symphony #7 in E minor - 1. Langsam – Allegro risoluto, ma non troppo.mp3
+│   │   ├── 02 Mahler_ Symphony #7 in E minor - 2. Nachtmusik I.mp3
+│   │   ├── 03 Mahler_ Symphony #7 in E minor - 3. Scherzo.mp3
+│   │   ├── 04 Mahler_ Symphony #7 in E minor - 4. Nachtmusik II.mp3
+│   │   └── 05 Mahler_ Symphony #7 in E minor - 5. Rondo finale.mp3
+│   └── Tchaikovsky_ Symphonies Nos. 1, 2, 4 _ Nutcracker Suite
+│       ├── 17 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 1. Andante sostenuto - Moderato con anima (F Minor) - Moderato assai, quasi Andante (B Major - F Major) - Allegro vivo (F Minor).mp3
+│       ├── 18 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 2. Andantino in modo di canzona (B-flat minor - F major - B-flat minor).mp3
+│       ├── 19 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 3. Scherzo_ Pizzicato ostinato — Allegro (F major - Trio in A major).mp3
+│       └── 20 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 4. Finale_ Allegro con fuoco (F major).mp3
 ├── Claudio Abbado, Berliner Philharmoniker, Evgeny Kissin
 │   └── Prokofiev_ Piano Concertos Nos.1 & 3
 │       ├── 01 Prokofiev_ Piano Concerto No. 1 in D-flat major - 1. Allegro brioso.m4a
@@ -304,6 +316,8 @@
 │   │   └── 11 Riu Riu Chiu.m4a
 │   ├── David Archuleta
 │   │   └── 06 Desperate.m4a
+│   ├── Orion
+│   │   └── 03 Say Me.m4a
 │   └── Zero Gravity
 │       └── 01 Zero Gravity.m4a
 ├── David Guetta
@@ -558,11 +572,24 @@
 │   │   ├── 2-04 Schubert_ Symphony No. 9 in C major, D. 944 - 2. Andante con moto in A minor.m4a
 │   │   ├── 2-05 Schubert_ Symphony No. 9 in C major, D. 944 - 3. Scherzo. Allegro vivace; Trio in C major_A major.m4a
 │   │   └── 2-06 Schubert_ Symphony No. 9 in C major, D. 944 - 4. Finale. Allegro vivace.m4a
-│   └── Sibelius _ Symphonies 1_4_5_6 & Karelia Suite
-│       ├── 1-01 Sibelius_ Symphony No. 1 in E minor, Op. 39 - 1. Andante, ma non troppo – Allegro energico.mp3
-│       ├── 1-02 Sibelius_ Symphony No. 1 in E minor, Op. 39 - 2. Andante (ma non troppo lento).mp3
-│       ├── 1-03 Sibelius_ Symphony No. 1 in E minor, Op. 39 - 3. Scherzo_ Allegro.mp3
-│       └── 1-04 Sibelius_ Symphony No. 1 in E minor, Op. 39 - 4. Finale (Quasi una fantasia)_ Andante – Allegro molto – Andante assai – Allegro molto come prima – Andante (ma non troppo).mp3
+│   ├── Sibelius _ Symphonies 1_4_5_6 & Karelia Suite
+│   │   ├── 1-01 Sibelius_ Symphony No. 1 in E minor, Op. 39 - 1. Andante, ma non troppo – Allegro energico.mp3
+│   │   ├── 1-02 Sibelius_ Symphony No. 1 in E minor, Op. 39 - 2. Andante (ma non troppo lento).mp3
+│   │   ├── 1-03 Sibelius_ Symphony No. 1 in E minor, Op. 39 - 3. Scherzo_ Allegro.mp3
+│   │   └── 1-04 Sibelius_ Symphony No. 1 in E minor, Op. 39 - 4. Finale (Quasi una fantasia)_ Andante – Allegro molto – Andante assai – Allegro molto come prima – Andante (ma non troppo).mp3
+│   └── Tchaikovsky_ Symphony Nos 4-6
+│       ├── 1-01 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 1. Andante sostenuto - Moderato con anima (F Minor) - Moderato assai, quasi Andante (B Major - F Major) - Allegro vivo (F Minor).mp3
+│       ├── 1-02 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 2. Andantino in modo di canzona (B-flat minor - F major - B-flat minor).mp3
+│       ├── 1-03 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 3. Scherzo_ Pizzicato ostinato — Allegro (F major - Trio in A major).mp3
+│       ├── 1-04 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 4. Finale_ Allegro con fuoco (F major).mp3
+│       ├── 1-05 Tchaikovsky_ Symphony No. 5 in E minor, Op. 64 - 1. Andante - Allegro con anima (E minor) - Molto più tranquillo (D Major - E Major).m4a
+│       ├── 1-06 Tchaikovsky_ Symphony No. 5 in E minor, Op. 64 - 2. Andante cantabile, con alcuna licenza (B Minor - D Major) - Non allegro (F-Sharp Minor) - Andante maestoso con piano (D Major).m4a
+│       ├── 2-01 Tchaikovsky_ Symphony No. 5 in E minor, Op. 64 - 3. Valse. Allegro moderato (A Major) (Trio in F-Sharp Minor).m4a
+│       ├── 2-02 Tchaikovsky_ Symphony No. 5 in E minor, Op. 64 - 4. Finale. Andante maestoso (E Major) - Allegro Vivace - Molto Vivace (E Minor) - Moderato assai e molto maestoso - Presto (E Major).m4a
+│       ├── 2-03 Tchaikovsky_ Symphony No. 6 in B minor, Op. 74 - 1. Adagio – Allegro non troppo (B minor) – Andante (D major in the exposition _ B major in the recapitulation).m4a
+│       ├── 2-04 Tchaikovsky_ Symphony No. 6 in B minor, Op. 74 - 2. Allegro con grazia (D major – B minor – D major).m4a
+│       ├── 2-05 Tchaikovsky_ Symphony No. 6 in B minor, Op. 74 - 3. Allegro molto vivace (G major – E major – G major).m4a
+│       └── 2-06 Tchaikovsky_ Symphony No. 6 in B minor, Op. 74 - 4. Finale_ Adagio lamentoso (B minor – D major – B minor – ambiguous key – B minor).m4a
 ├── Herbert von Karajan, Berliner Philharmoniker, David Oistrakh, Mstislav Rostropovich, Sviatoslav Richter
 │   └── Beethoven_ Triple Concerto_Brahms_ Double Concerto
 │       ├── 01 Beethoven_ Concerto for Violin, Cello, and Piano in C major, Op. 56 - I. Allegro.m4a
@@ -748,9 +775,23 @@
 │       └── 01 Timebomb.m4a
 ├── LOBODA
 │   ├── H2LO
-│   │   └── 03 случайная.mp3
-│   └── Город под запретом
-│       └── 01 Город под запретом.m4a
+│   │   ├── 02 твои глаза.mp3
+│   │   ├── 03 случайная.mp3
+│   │   ├── 04 стерва.m4a
+│   │   ├── 05 к чёрту любовь.m4a
+│   │   ├── 07 убей меня.m4a
+│   │   ├── 08 не нужна.mp3
+│   │   ├── 09 невеста.mp3
+│   │   ├── 13 париж.m4a
+│   │   └── 14 текила-любовь.m4a
+│   ├── Город под запретом
+│   │   └── 01 Город под запретом.m4a
+│   ├── Парень
+│   │   └── 01 Парень.mp3
+│   ├── Пора домой
+│   │   └── 01 Пора домой.mp3
+│   └── Сборник
+│       └── 01 Революция (Я революция).mp3
 ├── Lady Gaga
 │   ├── ARTPOP
 │   │   ├── 01 Aura.m4a
@@ -818,11 +859,17 @@
 │   │   └── 14 Egal wohin.m4a
 │   └── Refugium
 │       └── 04 Das Wunder des Lebens.m4a
+├── Marisa Monte
+│   └── Verão 2009
+│       └── 05 Não É Proibido.m4a
 ├── Martyn Brabbins, BBC Scottish Symphony Orchestra, Tasmin Little
 │   └── Koncert Skrzypcowy A-dur Op. 8
 │       ├── 01 Karłowicz_ Violin Concerto in A major, Op. 8 - I. Allegro moderato.m4a
 │       ├── 02 Karłowicz_ Violin Concerto in A major, Op. 8 - II. Romanza. Andante.mp3
 │       └── 03 Karłowicz_ Violin Concerto in A major, Op. 8 - III. Finale. Vivace assai.mp3
+├── Martynas
+│   └── Martynas
+│       └── 05 Telephone.mp3
 ├── Masters
 │   ├── Szukam Dziewczyny
 │   │   └── 01 Szukam Dziewczyny.mp3
@@ -1125,6 +1172,9 @@
 │       ├── 08 Im Unterholz.m4a
 │       ├── 09 Krieger.m4a
 │       └── 10 Wenn mein Herz schreit.m4a
+├── Sviridov, Georgy
+│   └── Время, вперёд
+│       └── 01 Время, вперёд.m4a
 ├── Szymon Wydra & Carpe Diem
 │   ├── Bezczas
 │   │   └── 06 Życie jak poemat.mp3
@@ -1281,12 +1331,25 @@
 │       ├── 02 Scriabin_ Piano Concerto in F sharp minor, Op. 20 - 1. Allegro.m4a
 │       ├── 03 Scriabin_ Piano Concerto in F sharp minor, Op. 20 - 2. Andante.m4a
 │       └── 04 Scriabin_ Piano Concerto in F sharp minor, Op. 20 - 3. Allegro moderato.m4a
+├── Vladimir Ashkenazy, NHK Symphony Orchestra
+│   └── Tchaikovsky_ Symphony No. 4
+│       ├── 01 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 1. Andante sostenuto - Moderato con anima (F Minor) - Moderato assai, quasi Andante (B Major - F Major) - Allegro vivo (F Minor).mp3
+│       ├── 02 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 2. Andantino in modo di canzona (B-flat minor - F major - B-flat minor).mp3
+│       ├── 03 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 3. Scherzo_ Pizzicato ostinato — Allegro (F major - Trio in A major).mp3
+│       └── 04 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 4. Finale_ Allegro con fuoco (F major).mp3
 ├── Vladimir Ashkenazy, Philarmonia Orchestra, Evgeny Kissin
 │   └── Prokofiev_ Piano Concertos Nos. 2 & 3
 │       ├── 01 Prokofiev_ Piano Concerto No. 2 in G minor, Op. 16 - 1. Andantino-Allegretto.m4a
 │       ├── 02 Prokofiev_ Piano Concerto No. 2 in G minor, Op. 16 - 2. Scherzo_ Vivace.m4a
 │       ├── 03 Prokofiev_ Piano Concerto No. 2 in G minor, Op. 16 - 3. Intermezzo_ Allegro moderato.m4a
 │       └── 04 Prokofiev_ Piano Concerto No. 2 in G minor, Op. 16 - 4. Finale_ Allegro tempestuoso.m4a
+├── Vladimir Fedoseev, Grand Symphony Orchestra of All-Union National Radio Service and Central Television Networks
+│   └── The Blizzard & Pushkin's Garland
+│       ├── The Blizzard_ Military March.m4a
+│       ├── The Blizzard_ Romance.m4a
+│       ├── The Blizzard_ Troika.m4a
+│       ├── The Blizzard_ Waltz.m4a
+│       └── The Blizzard_ Winter Road.m4a
 ├── Vladimir Fedoseyev, Moscow Symphony Orchestra
 │   └── Glazunov Symphony No. 1_ 1-4
 │       ├── 01 Glazunov_ Symphony No. 1 in E major, Op. 5 - 1. Allegro.mp3
@@ -1405,9 +1468,15 @@
 │       ├── 2-09 Lathos Anthropos.m4a
 │       ├── 2-13 Kanto An M Agapas.m4a
 │       └── 2-16 Mehri May Mina.m4a
+├── Айқын Толепберген
+│   └── Асылым
+│       └── 07 Сағыныш.m4a
 ├── Александр Васильев
 │   └── Черновики
 │       └── 02 Мне 20 лет.mp3
+├── Алла Пугачёва
+│   └── Святая ложь
+│       └── 01 Святая ложь.mp3
 ├── Алла Пугачева
 │   └── Нас бьют — мы летаем
 │       └── 01 Нас бьют — мы летаем.mp3
@@ -1448,8 +1517,10 @@
 │   └── SEX
 │       └── 11 Стриптиз.m4a
 ├── Григорий Лепс
-│   └── Водопад
-│       └── 10 Я тебе не верю.mp3
+│   ├── Водопад
+│   │   └── 10 Я тебе не верю.mp3
+│   └── Опять метель
+│       └── 01 Опять метель.mp3
 ├── Гулжигит Сатыбеков
 │   └── Кош бол
 │       └── 01 Кош бол.mp3
@@ -1462,6 +1533,9 @@
 ├── Дмитро Хвостенко
 │   └── Rise Like A Phoenix
 │       └── 01 Rise Like A Phoenix.mp3
+├── Евгений Литвинкович
+│   └── Слова остались мне.._
+│       └── 01 Слова остались мне.mp3
 ├── Жігіттер квартеті
 │   └── Кешір мені, жаным.._
 │       └── 01 Кешір мені, жаным....mp3
@@ -1489,6 +1563,9 @@
 │   │   └── 01 Садагам.mp3
 │   └── Сен экөөбүз
 │       └── 01 Сен экөөбүз.mp3
+├── Костя Кобылян
+│   └── Слова остались мне.._
+│       └── 01 Слова остались мне.mp3
 ├── Красная плесень
 │   └── 50 альбом! жеZZZть
 │       └── 02 Красная армия.mp3
@@ -1501,6 +1578,10 @@
 ├── Кыргызстан
 │   └── Anthem
 │       └── Кыргыз Республикасынын Мамлекеттик Гимни.mp3
+├── Ленинград
+│   └── Новинки
+│       ├── 24 В Питере — пить.m4a
+│       └── 25 Суходрочка.m4a
 ├── Любовь Успенская
 │   └── К единственному, нежному
 │       └── 05 К единственному, нежному.m4a
@@ -1713,4 +1794,4 @@
     └── 雙面飛輪海
         └── 07 心裡有數.mp3
 
-624 directories, 1089 files
+653 directories, 1141 files

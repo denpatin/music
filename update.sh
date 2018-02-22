@@ -1,6 +1,6 @@
 #!/bin/bash
 
-tree ~/Music/iTunes/iTunes\ Media/Music -N > README
+tree ~/Music/iTunes/iTunes\ Media/Music -N | sed 's/\.m[p4][3a]$//' > README
 
 if git status -s | grep -q README
 then

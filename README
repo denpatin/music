@@ -59,16 +59,18 @@
 │       └── 2-15 Per aspera ad aspera.mp3
 ├── Acid Black Cherry
 │   ├── BLACK LIST
-│   │   ├── 01 sins.mp3
-│   │   └── 05 愛してない.mp3
+│   │   ├── 01 sins.m4a
+│   │   └── 05 愛してない.m4a
 │   ├── Q.E.D_
-│   │   └── 09 優しい嘘.mp3
+│   │   └── 09 優しい嘘.m4a
 │   └── Recreation
-│       ├── 02 スローモーション.mp3
-│       └── 09 初恋.mp3
+│       ├── 02 スローモーション.m4a
+│       └── 09 初恋.m4a
 ├── Adele
-│   └── 21
-│       └── 05 Set Fire to the Rain.m4a
+│   ├── 21
+│   │   └── 05 Set Fire to the Rain.m4a
+│   └── 25
+│       └── 01 Hello.mp3
 ├── After Crying
 │   ├── Almost Pure Instrumental
 │   │   ├── 02 Aqua.m4a
@@ -118,9 +120,9 @@
 │       └── 24 California Dreamin'.m4a
 ├── Andrey Boreyko, Jenaer Philharmonie, Sergei Nakariakov
 │   └── From Moscow with Love
-│       ├── 05 Glière_ Concerto for Horn and Orchestra in B-flat major, Op. 91 - 1. Allegro.mp3
-│       ├── 06 Glière_ Concerto for Horn and Orchestra in B-flat major, Op. 91 - 2. Andante.mp3
-│       └── 07 Glière_ Concerto for Horn and Orchestra in B-flat major, Op. 91 - 3. Moderato - Allegro vivace.mp3
+│       ├── 05 Glière_ Concerto for Horn and Orchestra in B-flat major, Op. 91 - 1. Allegro.m4a
+│       ├── 06 Glière_ Concerto for Horn and Orchestra in B-flat major, Op. 91 - 2. Andante.m4a
+│       └── 07 Glière_ Concerto for Horn and Orchestra in B-flat major, Op. 91 - 3. Moderato - Allegro vivace.m4a
 ├── Angtoria
 │   └── God has a plan for us all
 │       ├── 03 God has a plan for us all.mp3
@@ -158,11 +160,14 @@
 │   │   └── 02 Ангел.m4a
 │   └── Руки к щекам
 │       └── 04 10 лет спустя.m4a
+├── Balti
+│   └── Ya Lili
+│       └── 01 Ya Lili.m4a
 ├── Benom
 │   ├── Balki tun
 │   │   └── 01 Balki tun.mp3
 │   └── Yog'adi yomg'ir
-│       └── 01 Yog'adi yomg'ir.mp3
+│       └── 01 Yog'adi yomg'ir.m4a
 ├── Billy Talent
 │   ├── Billy Talent II
 │   │   ├── 02 Red Flag.m4a
@@ -180,30 +185,30 @@
 │       └── 03 Kinder dieser Stadt.m4a
 ├── Boris Berezovsky
 │   └── Chopin _ Etudes
-│       ├── 01 Chopin_ Étude Op. 10, No. 1, in C major.mp3
-│       ├── 02 Chopin_ Étude Op. 10, No. 2, in A minor.mp3
-│       ├── 03 Chopin_ Étude Op. 10, No. 3, in E major.mp3
-│       ├── 04 Chopin_ Étude Op. 10, No. 4, in C-sharp minor.mp3
-│       ├── 05 Chopin_ Étude Op. 10, No. 5, in G-flat major.mp3
-│       ├── 06 Chopin_ Étude Op. 10, No. 6, in E-flat minor.mp3
-│       ├── 07 Chopin_ Étude Op. 10, No. 7, in C major.mp3
-│       ├── 08 Chopin_ Étude Op. 10, No. 8, in F major.mp3
-│       ├── 09 Chopin_ Étude Op. 10, No. 9, in F minor.mp3
-│       ├── 10 Chopin_ Étude Op. 10, No. 10, in A-flat major.mp3
-│       ├── 11 Chopin_ Étude Op. 10, No. 11, in E-flat major.mp3
-│       ├── 12 Chopin_ Étude Op. 10, No. 12, in C minor.mp3
-│       ├── 13 Chopin_ Étude Op. 25, No. 1, in A-flat major.mp3
-│       ├── 14 Chopin_ Étude Op. 25, No. 2, in F minor.mp3
-│       ├── 15 Chopin_ Étude Op. 25, No. 3, in F major.mp3
-│       ├── 16 Chopin_ Étude Op. 25, No. 4, in A minor.mp3
-│       ├── 17 Chopin_ Étude Op. 25, No. 5, in E minor.mp3
-│       ├── 18 Chopin_ Étude Op. 25, No. 6, in G-sharp minor.mp3
-│       ├── 19 Chopin_ Étude Op. 25, No. 7, in C-sharp minor.mp3
-│       ├── 20 Chopin_ Étude Op. 25, No. 8, in D-flat major.mp3
-│       ├── 21 Chopin_ Étude Op. 25, No. 9, in G-flat major.mp3
-│       ├── 22 Chopin_ Étude Op. 25, No. 10, in B minor.mp3
-│       ├── 23 Chopin_ Étude Op. 25, No. 11, in A minor.mp3
-│       └── 24 Chopin_ Étude Op. 25, No. 12, in C minor.mp3
+│       ├── 01 Chopin_ Étude Op. 10, No. 1, in C major.m4a
+│       ├── 02 Chopin_ Étude Op. 10, No. 2, in A minor.m4a
+│       ├── 03 Chopin_ Étude Op. 10, No. 3, in E major.m4a
+│       ├── 04 Chopin_ Étude Op. 10, No. 4, in C-sharp minor.m4a
+│       ├── 05 Chopin_ Étude Op. 10, No. 5, in G-flat major.m4a
+│       ├── 06 Chopin_ Étude Op. 10, No. 6, in E-flat minor.m4a
+│       ├── 07 Chopin_ Étude Op. 10, No. 7, in C major.m4a
+│       ├── 08 Chopin_ Étude Op. 10, No. 8, in F major.m4a
+│       ├── 09 Chopin_ Étude Op. 10, No. 9, in F minor.m4a
+│       ├── 10 Chopin_ Étude Op. 10, No. 10, in A-flat major.m4a
+│       ├── 11 Chopin_ Étude Op. 10, No. 11, in E-flat major.m4a
+│       ├── 12 Chopin_ Étude Op. 10, No. 12, in C minor.m4a
+│       ├── 13 Chopin_ Étude Op. 25, No. 1, in A-flat major.m4a
+│       ├── 14 Chopin_ Étude Op. 25, No. 2, in F minor.m4a
+│       ├── 15 Chopin_ Étude Op. 25, No. 3, in F major.m4a
+│       ├── 16 Chopin_ Étude Op. 25, No. 4, in A minor.m4a
+│       ├── 17 Chopin_ Étude Op. 25, No. 5, in E minor.m4a
+│       ├── 18 Chopin_ Étude Op. 25, No. 6, in G-sharp minor.m4a
+│       ├── 19 Chopin_ Étude Op. 25, No. 7, in C-sharp minor.m4a
+│       ├── 20 Chopin_ Étude Op. 25, No. 8, in D-flat major.m4a
+│       ├── 21 Chopin_ Étude Op. 25, No. 9, in G-flat major.m4a
+│       ├── 22 Chopin_ Étude Op. 25, No. 10, in B minor.m4a
+│       ├── 23 Chopin_ Étude Op. 25, No. 11, in A minor.m4a
+│       └── 24 Chopin_ Étude Op. 25, No. 12, in C minor.m4a
 ├── Bushido
 │   ├── 7
 │   │   ├── 06 Dieser eine Wunsch.mp3
@@ -213,24 +218,24 @@
 │   ├── Flersguterjunge
 │   │   └── 07 Das Alles Ist Deutschland.m4a
 │   ├── Heavy Metal Payback
-│   │   └── 15 Für immer jung.mp3
+│   │   └── 15 Für immer jung.m4a
 │   └── _
-│       └── 06 Airmax auf Beton.mp3
+│       └── 06 Airmax auf Beton.m4a
 ├── Celine Dion
 │   └── D'eux _ S'il suffisait d'aimer
 │       └── 2-01 Je crois toi.m4a
 ├── Claudio Abbado, Berliner Philharmoniker
 │   ├── Mahler_ Symphony No.7
-│   │   ├── 01 Mahler_ Symphony #7 in E minor - 1. Langsam – Allegro risoluto, ma non troppo.mp3
-│   │   ├── 02 Mahler_ Symphony #7 in E minor - 2. Nachtmusik I.mp3
-│   │   ├── 03 Mahler_ Symphony #7 in E minor - 3. Scherzo.mp3
-│   │   ├── 04 Mahler_ Symphony #7 in E minor - 4. Nachtmusik II.mp3
-│   │   └── 05 Mahler_ Symphony #7 in E minor - 5. Rondo finale.mp3
+│   │   ├── 01 Mahler_ Symphony #7 in E minor - 1. Langsam – Allegro risoluto, ma non troppo.m4a
+│   │   ├── 02 Mahler_ Symphony #7 in E minor - 2. Nachtmusik I.m4a
+│   │   ├── 03 Mahler_ Symphony #7 in E minor - 3. Scherzo.m4a
+│   │   ├── 04 Mahler_ Symphony #7 in E minor - 4. Nachtmusik II.m4a
+│   │   └── 05 Mahler_ Symphony #7 in E minor - 5. Rondo finale.m4a
 │   └── Tchaikovsky_ Symphonies Nos. 1, 2, 4 _ Nutcracker Suite
-│       ├── 17 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 1. Andante sostenuto - Moderato con anima (F Minor) - Moderato assai, quasi Andante (B Major - F Major) - Allegro vivo (F Minor).mp3
-│       ├── 18 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 2. Andantino in modo di canzona (B-flat minor - F major - B-flat minor).mp3
-│       ├── 19 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 3. Scherzo_ Pizzicato ostinato — Allegro (F major - Trio in A major).mp3
-│       └── 20 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 4. Finale_ Allegro con fuoco (F major).mp3
+│       ├── 17 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 1. Andante sostenuto - Moderato con anima (F Minor) - Moderato assai, quasi Andante (B Major - F Major) - Allegro vivo (F Minor).m4a
+│       ├── 18 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 2. Andantino in modo di canzona (B-flat minor - F major - B-flat minor).m4a
+│       ├── 19 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 3. Scherzo_ Pizzicato ostinato — Allegro (F major - Trio in A major).m4a
+│       └── 20 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 4. Finale_ Allegro con fuoco (F major).m4a
 ├── Claudio Abbado, Berliner Philharmoniker, Evgeny Kissin
 │   └── Prokofiev_ Piano Concertos Nos.1 & 3
 │       ├── 01 Prokofiev_ Piano Concerto No. 1 in D-flat major - 1. Allegro brioso.m4a
@@ -289,8 +294,8 @@
 │       └── 03 Funeral in Carpathia.m4a
 ├── Daft Punk
 │   ├── Random Access Memories
-│   │   ├── 04 Within.mp3
-│   │   └── 10 Motherboard.mp3
+│   │   ├── 04 Within.m4a
+│   │   └── 10 Motherboard.m4a
 │   └── TRON_ Legacy
 │       ├── 1-21 TRON Legacy.mp3
 │       ├── 2-01 Encom Part I.mp3
@@ -363,6 +368,17 @@
 │   └── Astronaut
 │       ├── 01 (Reach Up For The) Sunrise.m4a
 │       └── 03 What Happens Tomorrow.m4a
+├── Edda Művek
+│   ├── A Szerelem Hullámhosszán
+│   │   ├── 02 Éjjel Érkezem.mp3
+│   │   └── 06 Utolsó Érintés.mp3
+│   ├── Átok & Áldás
+│   │   └── 02 Elsiratlak Gyönyörű Szerelem.mp3
+│   ├── Inog A Világ
+│   │   ├── 05 Séta A Múltban.mp3
+│   │   └── 13 Egy Rész A Szívemből.mp3
+│   └── Örökség
+│       └── 01 Táltos Örökség.mp3
 ├── Eisbrecher
 │   └── Schock
 │       └── 01 Volle Kraft voraus.m4a
@@ -393,7 +409,7 @@
 │   ├── Всё вышло из-под контроля
 │   │   └── 04 Память.mp3
 │   ├── Прикосновение
-│   │   └── 09 Колыбельная для Солнца.mp3
+│   │   └── 09 Колыбельная для Солнца.m4a
 │   └── Штормовое предупреждение
 │       ├── 02 Железо поёт.m4a
 │       └── 04 Кислород.m4a
@@ -418,19 +434,19 @@
 │       └── 06 Salutations Distinguées.m4a
 ├── Gary Moore
 │   └── Run for Cover
-│       └── 04 Empty Rooms.mp3
+│       └── 04 Empty Rooms.m4a
 ├── Genesis
 │   └── Archive #1 (1967-1975)
-│       └── 3-02 Firth Of Fifth (Live).mp3
+│       └── 3-02 Firth Of Fifth (Live).m4a
 ├── George Ezra
 │   ├── Cassy O'
-│   │   └── 01 Cassy O'.mp3
+│   │   └── 01 Cassy O'.m4a
 │   └── Wanted On Voyage
-│       ├── 01 Blame It on Me.mp3
-│       └── 05 Listen to the Man.mp3
+│       ├── 01 Blame It on Me.m4a
+│       └── 05 Listen to the Man.m4a
 ├── Glee Cast
 │   └── Total Eclipse Of The Heart (Glee Cast Version) [feat. Jonathan Groff] - Single (Glee Cast Version) [feat. Jonathan Groff] - Single
-│       └── 01 Total Eclipse Of The Heart.mp3
+│       └── 01 Total Eclipse Of The Heart.m4a
 ├── Greyson Chance
 │   └── Hold On _Til The Night
 │       ├── 02 Unfriend You.m4a
@@ -438,9 +454,14 @@
 │       └── 07 Cheyenne.m4a
 ├── Grégory Lemarchal
 │   └── Je Deviens Moi
-│       ├── 02 Je Suis En Vie.mp3
-│       ├── 06 Je T'Ecris.mp3
-│       └── 07 Pardonne-Moi.mp3
+│       ├── 02 Je Suis En Vie.m4a
+│       ├── 06 Je T'Ecris.m4a
+│       └── 07 Pardonne-Moi.m4a
+├── Grimoirium
+│   └── Grimoirium
+│       ├── 01 Один в темноте.mp3
+│       ├── 02 Вальс.mp3
+│       └── 03 Death.mp3
 ├── Guns N' Roses
 │   └── Chinese Democracy
 │       ├── 04 Street Of Dreams.m4a
@@ -579,14 +600,14 @@
 │   │   └── 2-06 Schubert_ Symphony No. 9 in C major, D. 944 - 4. Finale. Allegro vivace.m4a
 │   ├── Sibelius _ Symphonies 1_4_5_6 & Karelia Suite
 │   │   ├── 1-01 Sibelius_ Symphony No. 1 in E minor, Op. 39 - 1. Andante, ma non troppo – Allegro energico.mp3
-│   │   ├── 1-02 Sibelius_ Symphony No. 1 in E minor, Op. 39 - 2. Andante (ma non troppo lento).mp3
-│   │   ├── 1-03 Sibelius_ Symphony No. 1 in E minor, Op. 39 - 3. Scherzo_ Allegro.mp3
+│   │   ├── 1-02 Sibelius_ Symphony No. 1 in E minor, Op. 39 - 2. Andante (ma non troppo lento).m4a
+│   │   ├── 1-03 Sibelius_ Symphony No. 1 in E minor, Op. 39 - 3. Scherzo_ Allegro.m4a
 │   │   └── 1-04 Sibelius_ Symphony No. 1 in E minor, Op. 39 - 4. Finale (Quasi una fantasia)_ Andante – Allegro molto – Andante assai – Allegro molto come prima – Andante (ma non troppo).mp3
 │   └── Tchaikovsky_ Symphony Nos 4-6
-│       ├── 1-01 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 1. Andante sostenuto - Moderato con anima (F Minor) - Moderato assai, quasi Andante (B Major - F Major) - Allegro vivo (F Minor).mp3
-│       ├── 1-02 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 2. Andantino in modo di canzona (B-flat minor - F major - B-flat minor).mp3
-│       ├── 1-03 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 3. Scherzo_ Pizzicato ostinato — Allegro (F major - Trio in A major).mp3
-│       ├── 1-04 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 4. Finale_ Allegro con fuoco (F major).mp3
+│       ├── 1-01 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 1. Andante sostenuto - Moderato con anima (F Minor) - Moderato assai, quasi Andante (B Major - F Major) - Allegro vivo (F Minor).m4a
+│       ├── 1-02 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 2. Andantino in modo di canzona (B-flat minor - F major - B-flat minor).m4a
+│       ├── 1-03 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 3. Scherzo_ Pizzicato ostinato — Allegro (F major - Trio in A major).m4a
+│       ├── 1-04 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 4. Finale_ Allegro con fuoco (F major).m4a
 │       ├── 1-05 Tchaikovsky_ Symphony No. 5 in E minor, Op. 64 - 1. Andante - Allegro con anima (E minor) - Molto più tranquillo (D Major - E Major).m4a
 │       ├── 1-06 Tchaikovsky_ Symphony No. 5 in E minor, Op. 64 - 2. Andante cantabile, con alcuna licenza (B Minor - D Major) - Non allegro (F-Sharp Minor) - Andante maestoso con piano (D Major).m4a
 │       ├── 2-01 Tchaikovsky_ Symphony No. 5 in E minor, Op. 64 - 3. Valse. Allegro moderato (A Major) (Trio in F-Sharp Minor).m4a
@@ -658,7 +679,7 @@
 │       └── 01 Созвездие Ангела.mp3
 ├── James Newton Howard
 │   └── Fantastic Beasts and Where to Find Them
-│       └── 2-01 A Man and His Beasts.mp3
+│       └── 2-01 A Man and His Beasts.m4a
 ├── Jaromír Nohavica
 │   └── Tak Mě Tu Máš
 │       ├── 01 Řeka Zapomnění.m4a
@@ -779,24 +800,27 @@
 │   └── Timebomb
 │       └── 01 Timebomb.m4a
 ├── LOBODA
+│   ├── 40 градусов
+│   │   └── 01 40 градусов.m4a
 │   ├── H2LO
-│   │   ├── 02 твои глаза.mp3
-│   │   ├── 03 случайная.mp3
+│   │   ├── 02 твои глаза.m4a
+│   │   ├── 03 случайная.m4a
 │   │   ├── 04 стерва.m4a
 │   │   ├── 05 к чёрту любовь.m4a
 │   │   ├── 07 убей меня.m4a
-│   │   ├── 08 не нужна.mp3
-│   │   ├── 09 невеста.mp3
+│   │   ├── 08 не нужна.m4a
+│   │   ├── 09 невеста.m4a
+│   │   ├── 10 чуть-чуть.m4a
 │   │   ├── 13 париж.m4a
 │   │   └── 14 текила-любовь.m4a
 │   ├── Город под запретом
 │   │   └── 01 Город под запретом.m4a
 │   ├── Парень
-│   │   └── 01 Парень.mp3
+│   │   └── 01 Парень.m4a
 │   ├── Пора домой
-│   │   └── 01 Пора домой.mp3
+│   │   └── 01 Пора домой.m4a
 │   └── Сборник
-│       └── 01 Революция (Я революция).mp3
+│       └── 01 Революция (Я революция).m4a
 ├── Lady Gaga
 │   ├── ARTPOP
 │   │   ├── 01 Aura.m4a
@@ -850,9 +874,9 @@
 │   │   ├── 03 Nihil.m4a
 │   │   └── 10 Nekrolog.m4a
 │   ├── Königreich Der Angst
-│   │   ├── 03 Blaue Grenze.mp3
-│   │   ├── 09 Untergang.mp3
-│   │   └── 10 Bei Mir.mp3
+│   │   ├── 03 Blaue Grenze.m4a
+│   │   ├── 09 Untergang.m4a
+│   │   └── 10 Bei Mir.m4a
 │   ├── Melancholia
 │   │   ├── 01 Die Welt zerbricht.m4a
 │   │   ├── 04 Zur Sonne.m4a
@@ -874,22 +898,22 @@
 │       └── 03 Karłowicz_ Violin Concerto in A major, Op. 8 - III. Finale. Vivace assai.mp3
 ├── Martynas
 │   └── Martynas
-│       └── 05 Telephone.mp3
+│       └── 05 Telephone.m4a
 ├── Masters
 │   ├── Szukam Dziewczyny
 │   │   └── 01 Szukam Dziewczyny.mp3
 │   └── Tylko Muzyka
-│       └── 01 Tylko Muzyka.mp3
+│       └── 01 Tylko Muzyka.m4a
 ├── Maurizio Pollini
 │   └── The Originals - Legendary Recordings From The Deutsche Grammophon Catalogue
-│       ├── 16-03 Chopin_ Polonaise in A major, Op. 40.mp3
-│       └── 16-06 Chopin_ Polonaise in A-flat major, Op. 53.mp3
+│       ├── 16-03 Chopin_ Polonaise in A major, Op. 40.m4a
+│       └── 16-06 Chopin_ Polonaise in A-flat major, Op. 53.m4a
 ├── Melendi
 │   └── Lágrimas Desordenadas
 │       └── 03 Cheque al Portamor.m4a
 ├── Metallica
 │   └── S & M
-│       └── 1-08 No Leaf Clover.mp3
+│       └── 1-08 No Leaf Clover.m4a
 ├── Mészáros Árpád Zsolt
 │   └── Szédült világ
 │       └── 03 Most kell, hogy élj.mp3
@@ -940,16 +964,16 @@
 │       └── 01 Telli Telli.m4a
 ├── Mors Principium Est
 │   └── Dawn of the 5th Era
-│       └── 01 Enter the Asylum.mp3
+│       └── 01 Enter the Asylum.m4a
 ├── Muse
 │   └── The Resistance
-│       └── 07 MK Ultra.mp3
+│       └── 07 MK Ultra.m4a
 ├── Mylène Farmer
 │   ├── Avant Que L'Ombre.._
-│   │   └── 01 Avant que l'ombre....mp3
+│   │   └── 01 Avant que l'ombre....m4a
 │   └── Monkey Me
-│       ├── 01 Elle A Dit.mp3
-│       └── 11 A Force De….mp3
+│       ├── 01 Elle A Dit.m4a
+│       └── 11 A Force De….m4a
 ├── Nicholas Milton, Deutsche Radio Philharmonie Saarbrücken Kaiserslautern, Joseph Moog
 │   └── Grieg & Moszkowski_ Piano Concertos
 │       ├── 01 Moszkowski_ Piano Concerto in E Major, Op. 59 - 1. Moderato.mp3
@@ -958,10 +982,10 @@
 │       └── 04 Moszkowski_ Piano Concerto in E Major, Op. 59 - 4. Allegro deciso.m4a
 ├── Noize MC
 │   ├── Protivo Gunz
-│   │   └── 01 Рок — это кал!.mp3
+│   │   └── 01 Рок — это кал!.m4a
 │   └── Новый альбом
-│       ├── 05 Вселенная бесконечна_.mp3
-│       └── 06 Жадина.mp3
+│       ├── 05 Вселенная бесконечна_.m4a
+│       └── 06 Жадина.m4a
 ├── Nox
 │   ├── Most!
 │   │   ├── 02 Ne Mondjátok.....m4a
@@ -1024,13 +1048,13 @@
 │       └── 11 Where Do We Draw The Line.m4a
 ├── Profanum
 │   ├── Misantropiac Floris
-│   │   └── 06 Unspoken Name of God.mp3
+│   │   └── 06 Unspoken Name of God.m4a
 │   ├── Musaeum Esotericum
 │   │   ├── 01 Ecce Deliquium Lunae_ Atri Misanthropiae Floris.m4a
 │   │   └── 02 Ecce Axis Mundi_ Ars Magna et Ultima.m4a
 │   └── Profanum Aeternum_ Eminence of Satanic Imperial Art
-│       ├── 04 Raven Singing Over My Closed Eyes.mp3
-│       └── 05 Journey Into the Nothingness.mp3
+│       ├── 04 Raven Singing Over My Closed Eyes.m4a
+│       └── 05 Journey Into the Nothingness.m4a
 ├── Qaraqan
 │   ├── Bir
 │   │   └── 01 Bir.mp3
@@ -1083,20 +1107,20 @@
 │       └── 06 Goodbye.mp3
 ├── Sabaton
 │   ├── Carolus Rex
-│   │   ├── 15 Gott Mit Uns.mp3
-│   │   ├── 16 En Livstid I Krig.mp3
-│   │   ├── 17 1 6 4 8.mp3
-│   │   ├── 18 Karolinens Bön.mp3
-│   │   ├── 19 Carolus Rex.mp3
-│   │   ├── 20 Ett Slag Färgat Rött.mp3
-│   │   └── 21 Poltava.mp3
+│   │   ├── 15 Gott Mit Uns.m4a
+│   │   ├── 16 En Livstid I Krig.m4a
+│   │   ├── 17 1 6 4 8.m4a
+│   │   ├── 18 Karolinens Bön.m4a
+│   │   ├── 19 Carolus Rex.m4a
+│   │   ├── 20 Ett Slag Färgat Rött.m4a
+│   │   └── 21 Poltava.m4a
 │   ├── Heroes
-│   │   └── 06 The Ballad Of Bull.mp3
+│   │   └── 06 The Ballad Of Bull.m4a
 │   └── The Art of War
-│       └── 10 Union (Slopes of St. Benedict).mp3
+│       └── 10 Union (Slopes of St. Benedict).m4a
 ├── Sarah Kivi
 │   └── Jos rakastat
-│       └── 03 Joka päivä ja joka ikinen yö.mp3
+│       └── 03 Joka päivä ja joka ikinen yö.m4a
 ├── Serdar Ortaç
 │   └── Ayrılık İnsanlar İçin
 │       └── 01 Ayrılık İnsanlar İçin.m4a
@@ -1117,12 +1141,19 @@
 │       └── 12 Through the Ghost.m4a
 ├── Sia
 │   └── This Is Acting
-│       └── 05 Unstoppable.mp3
+│       └── 05 Unstoppable.m4a
 ├── Sido
 │   ├── Herz
 │   │   └── 01 Herz.mp3
 │   └── VI
 │       └── 05 Astronaut.m4a
+├── Siegfried Kurz, Staatskapelle Dresden, Peter Damm
+│   └── Horn
+│       ├── 1-01 Saint-Saëns_ Morceau de concert for Horn in F Minor, Op. 94.m4a
+│       ├── 1-02 Schumann_ Concertpiece for Four Horns and Orchestra in F major, Op.86 - 1. Lebhaft.m4a
+│       ├── 1-03 Schumann_ Concertpiece for Four Horns and Orchestra in F major, Op.86 - 2. Romanze.m4a
+│       ├── 1-04 Schumann_ Concertpiece for Four Horns and Orchestra in F major, Op.86 - 3. Sehr lebhaft.m4a
+│       └── 1-05 Weber_ Horn Concertino in E minor, Op.45.m4a
 ├── Simple Minds
 │   └── Celebrate Greatest Hits
 │       ├── 1-01 Don't You (Forget About Me).m4a
@@ -1139,7 +1170,7 @@
 │   │   ├── 04 Replica.m4a
 │   │   └── 05 Kingdom For A Heart.m4a
 │   └── Reckoning Night
-│       └── 05 Don't Say a Word.mp3
+│       └── 05 Don't Say a Word.m4a
 ├── Sophie Ellis-Bextor
 │   └── Wanderlust
 │       ├── 01 Birth Of An Empire.m4a
@@ -1154,17 +1185,17 @@
 │       └── 01 All I Want for Christmas Is You.mp3
 ├── Strachy na Lachy
 │   ├── !TO!
-│   │   ├── 02 Sympatyczny atrament.mp3
-│   │   ├── 03 Bankrut... bankrutowi.mp3
-│   │   ├── 05 I can't get no gratisfaction.mp3
-│   │   ├── 07 Jaka piękna katastrofa.mp3
-│   │   ├── 08 Za stary na Courtney Love.mp3
-│   │   └── 10 Żeby z Tobą być.mp3
+│   │   ├── 02 Sympatyczny atrament.m4a
+│   │   ├── 03 Bankrut... bankrutowi.m4a
+│   │   ├── 05 I can't get no gratisfaction.m4a
+│   │   ├── 07 Jaka piękna katastrofa.m4a
+│   │   ├── 08 Za stary na Courtney Love.m4a
+│   │   └── 10 Żeby z Tobą być.m4a
 │   └── Piła tango
-│       └── 05 Niecodzienny szczon.mp3
+│       └── 05 Niecodzienny szczon.m4a
 ├── Stromae
 │   └── papaoutai
-│       └── 01 Papaoutai.mp3
+│       └── 01 Papaoutai.m4a
 ├── Sündenklang
 │   └── Tränenreich
 │       ├── 01 Lieber sterben.m4a
@@ -1193,7 +1224,7 @@
 │       └── 01 プロポーズ.mp3
 ├── Tabáni István
 │   └── Gyönyörű Szép
-│       └── 02 Szabadság Vándorai.mp3
+│       └── 02 Szabadság Vándorai.m4a
 ├── Telemetrik
 │   └── My Lightyear
 │       └── 10 My Lightyear.m4a
@@ -1220,7 +1251,7 @@
 │       └── 02 Archangel.m4a
 ├── Thousand Foot Krutch
 │   └── Phenomenon
-│       └── 01 Phenomenon.mp3
+│       └── 01 Phenomenon.m4a
 ├── Trio Sucupira
 │   └── Até o dia clarear
 │       └── 01 Até o dia clarear.mp3
@@ -1230,6 +1261,9 @@
 ├── Twelve Titans Music
 │   └── Maze Runner_ The Scorch Trials (Trailer)
 │       └── 01 Mercenary.mp3
+├── Twenty One Pilots
+│   └── Heathens
+│       └── 01 Heathens.m4a
 ├── Unheilig
 │   ├── Gipfelkreuz
 │   │   ├── 01 Gipfelblick (Intro).mp3
@@ -1323,9 +1357,14 @@
 │   ├── Прибытие
 │   │   └── 05 First Encounter.mp3
 │   └── 疾風伝
-│       ├── 出陣.mp3
-│       ├── 千軍万馬.mp3
-│       └── 疾風伝.mp3
+│       ├── 出陣.m4a
+│       ├── 千軍万馬.m4a
+│       └── 疾風伝.m4a
+├── Valery Gergiev, London Philharmonic Orchestra, Evgeni Kissin
+│   └── Rachmaninoff_ Piano Concerto  No. 2 & 6 Etudes-Tableaux
+│       ├── 01 Rachmaninoff_ Piano Concerto No. 2 in C minor, Op. 18 - 1. Allegro moderato.m4a
+│       ├── 02 Rachmaninoff_ Piano Concerto No. 2 in C minor, Op. 18 - 2. Adagio sostenuto.m4a
+│       └── 03 Rachmaninoff_ Piano Concerto No. 2 in C minor, Op. 18 - 3. Allegro scherzando.m4a
 ├── Valery Gergiev, Mariinsky Theatre Orchestra, Denis Matsuev
 │   └── Рахманинов_ Концерт для фортепиано с оркестром No. 3 и Рапсодия на тему Паганини
 │       ├── 01 Rachmaninoff_ Piano Concerto No. 3 in D minor, Op. 30 - 1. Allegro ma non tanto.m4a
@@ -1338,10 +1377,10 @@
 │       └── 04 Scriabin_ Piano Concerto in F sharp minor, Op. 20 - 3. Allegro moderato.m4a
 ├── Vladimir Ashkenazy, NHK Symphony Orchestra
 │   └── Tchaikovsky_ Symphony No. 4
-│       ├── 01 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 1. Andante sostenuto - Moderato con anima (F Minor) - Moderato assai, quasi Andante (B Major - F Major) - Allegro vivo (F Minor).mp3
-│       ├── 02 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 2. Andantino in modo di canzona (B-flat minor - F major - B-flat minor).mp3
-│       ├── 03 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 3. Scherzo_ Pizzicato ostinato — Allegro (F major - Trio in A major).mp3
-│       └── 04 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 4. Finale_ Allegro con fuoco (F major).mp3
+│       ├── 01 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 1. Andante sostenuto - Moderato con anima (F Minor) - Moderato assai, quasi Andante (B Major - F Major) - Allegro vivo (F Minor).m4a
+│       ├── 02 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 2. Andantino in modo di canzona (B-flat minor - F major - B-flat minor).m4a
+│       ├── 03 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 3. Scherzo_ Pizzicato ostinato — Allegro (F major - Trio in A major).m4a
+│       └── 04 Tchaikovsky_ Symphony No. 4 in F minor, Op. 36 - 4. Finale_ Allegro con fuoco (F major).m4a
 ├── Vladimir Ashkenazy, Philarmonia Orchestra, Evgeny Kissin
 │   └── Prokofiev_ Piano Concertos Nos. 2 & 3
 │       ├── 01 Prokofiev_ Piano Concerto No. 2 in G minor, Op. 16 - 1. Andantino-Allegretto.m4a
@@ -1357,10 +1396,10 @@
 │       └── The Blizzard_ Winter Road.m4a
 ├── Vladimir Fedoseyev, Moscow Symphony Orchestra
 │   └── Glazunov Symphony No. 1_ 1-4
-│       ├── 01 Glazunov_ Symphony No. 1 in E major, Op. 5 - 1. Allegro.mp3
-│       ├── 02 Glazunov_ Symphony No. 1 in E major, Op. 5 - 2. Scherzo_ Allegro.mp3
-│       ├── 03 Glazunov_ Symphony No. 1 in E major, Op. 5 - 3. Adagio.mp3
-│       └── 04 Glazunov_ Symphony No. 1 in E major, Op. 5 - 4. Finale_ Allegro.mp3
+│       ├── 01 Glazunov_ Symphony No. 1 in E major, Op. 5 - 1. Allegro.m4a
+│       ├── 02 Glazunov_ Symphony No. 1 in E major, Op. 5 - 2. Scherzo_ Allegro.m4a
+│       ├── 03 Glazunov_ Symphony No. 1 in E major, Op. 5 - 3. Adagio.m4a
+│       └── 04 Glazunov_ Symphony No. 1 in E major, Op. 5 - 4. Finale_ Allegro.m4a
 ├── Vladimir Stoupel
 │   └── Alexander Scriabin_ The Complete Piano Sonatas
 │       ├── 1-01 Scriabin_ Piano Sonata No. 1 in F minor, Op. 6 - 1. Allegro con fuoco.m4a
@@ -1406,7 +1445,7 @@
 │       └── 11 White Shadow.m4a
 ├── WEAVER
 │   └── Hard to say I love you 〜言い出せなくて〜
-│       └── 01 Hard to say I love you 〜言い出せなくて〜.mp3
+│       └── 01 Hard to say I love you 〜言い出せなくて〜.m4a
 ├── WIDY
 │   └── Ya Habibi
 │       └── 01 Ya Habibi.mp3
@@ -1490,8 +1529,8 @@
 │       └── 01 Небасхіл Еўропы.mp3
 ├── Андрей Губин
 │   └── Время романтиков
-│       ├── 12 Птица.mp3
-│       └── 15 Ночь.mp3
+│       ├── 12 Птица.m4a
+│       └── 15 Ночь.m4a
 ├── Андрей Леницкий
 │   └── Только
 │       └── 01 Только.m4a
@@ -1506,7 +1545,7 @@
 │       └── 01 Жаса Қазақстан.mp3
 ├── Бегиш
 │   ├── Апаке
-│   │   └── 01 Апаке.mp3
+│   │   └── 01 Апаке.m4a
 │   └── Кыргызстан
 │       └── 01 Кыргызстан.mp3
 ├── Бекчоро & Alainn
@@ -1520,10 +1559,12 @@
 │       └── 01 Музыка.m4a
 ├── Винтаж
 │   └── SEX
+│       ├── 01 Sex.m4a
+│       ├── 06 Мальчик.m4a
 │       └── 11 Стриптиз.m4a
 ├── Григорий Лепс
 │   ├── Водопад
-│   │   └── 10 Я тебе не верю.mp3
+│   │   └── 10 Я тебе не верю.m4a
 │   └── Опять метель
 │       └── 01 Опять метель.mp3
 ├── Гулжигит Сатыбеков
@@ -1576,7 +1617,7 @@
 │       └── 01 Слова остались мне.mp3
 ├── Красная плесень
 │   └── 50 альбом! жеZZZть
-│       └── 02 Красная армия.mp3
+│       └── 02 Красная армия.m4a
 ├── Кубаныч Сатаев
 │   └── Жан досум
 │       └── 01 Жан досум.mp3
@@ -1639,13 +1680,13 @@
 │   ├── Гуляй, мужик!
 │   │   └── 04 Бомж.mp3
 │   └── Нажми на газ
-│       └── 08 Тёща.mp3
+│       └── 08 Тёща.m4a
 ├── Союз созидающих
 │   └── Рубеж
-│       └── 01 Слишком хорош, чтобы жить....mp3
+│       └── 01 Слишком хорош, чтобы жить....m4a
 ├── Сплин
 │   └── Раздвоение личности
-│       └── 02 Скажи.mp3
+│       └── 02 Скажи.m4a
 ├── Сурганова и Оркестр
 │   ├── #МируМир
 │   │   ├── 02 Сердце Юла.m4a
@@ -1680,9 +1721,9 @@
 │   │   ├── 20 Мой путь.mp3
 │   │   └── 21 Ты — пламя.m4a
 │   └── Песни военных лет
-│       ├── 01 Нам нужна одна победа.mp3
-│       ├── 08 Катюша.mp3
-│       └── 10 Смуглянка.mp3
+│       ├── 01 Нам нужна одна победа.m4a
+│       ├── 08 Катюша.m4a
+│       └── 10 Смуглянка.m4a
 ├── Тата Улан
 │   └── Карындаш
 │       └── 01 Карындаш.mp3
@@ -1690,7 +1731,7 @@
 │   ├── 57 параллель
 │   │   └── 01 Друг.m4a
 │   └── Не псих
-│       └── 08 Труба.mp3
+│       └── 08 Труба.m4a
 ├── Уладзімір Мулявін
 │   └── Малітва
 │       └── 01 Малітва.mp3
@@ -1724,7 +1765,7 @@
 │       └── 01 The Way Home.m4a
 ├── הראל סקעת
 │   ├── Harel Skaat
-│   │   └── 07 כמה עוד אפשר.mp3
+│   │   └── 07 כמה עוד אפשר.m4a
 │   └── דמויות
 │       ├── 03 שוב.m4a
 │       └── 09 מובן לי עכשיו.m4a
@@ -1748,7 +1789,13 @@
 ├── コタニキンヤ_
 │   └── BLAZE
 │       └── 01 BLAZE.mp3
+├── ディル・アン・グレイ
+│   └── The Marrow of a Bone
+│       └── 09 艶かしき安息、躊躇いに微笑み.mp3
 ├── ナイトメア
+│   ├── SCUMS
+│   │   ├── 05 雨と夜に墜ちて.m4a
+│   │   └── 08 終わる世界の始まりは奇なり.m4a
 │   ├── Ultimate Circus
 │   │   └── 08 茜.mp3
 │   ├── the WORLD Ruler
@@ -1775,9 +1822,9 @@
 │       └── 07 Au Revoir.mp3
 ├── 中孝介
 │   └── The Best of Kousuke Atari
-│       ├── 1-03 花.mp3
-│       ├── 1-05 種をまく日々.mp3
-│       └── 1-09 道の途中.mp3
+│       ├── 1-03 花.m4a
+│       ├── 1-05 種をまく日々.m4a
+│       └── 1-09 道の途中.m4a
 ├── 中島美嘉
 │   └── 一色
 │       └── 01 一色.mp3
@@ -1802,4 +1849,4 @@
     └── 雙面飛輪海
         └── 07 心裡有數.mp3
 
-657 directories, 1145 files
+677 directories, 1172 files

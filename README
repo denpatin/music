@@ -343,6 +343,9 @@
 │       ├── 09 My Company of Corpses
 │       ├── 10 Cemetery Cove
 │       └── 12 Neutralize Decay
+├── Depresszió
+│   └── A mi forradalmunk
+│       └── 01 A mi forradalmunk
 ├── Devin Townsend Project
 │   └── Addicted
 │       └── 04 Supercrush!
@@ -370,15 +373,27 @@
 │       └── 03 What Happens Tomorrow
 ├── Edda Művek
 │   ├── A Szerelem Hullámhosszán
+│   │   ├── 01 Érzés
 │   │   ├── 02 Éjjel Érkezem
+│   │   ├── 03 Amikor Még
+│   │   ├── 04 Újra Láttalak
 │   │   └── 06 Utolsó Érintés
 │   ├── Átok & Áldás
 │   │   └── 02 Elsiratlak Gyönyörű Szerelem
 │   ├── Inog A Világ
 │   │   ├── 05 Séta A Múltban
 │   │   └── 13 Egy Rész A Szívemből
+│   ├── Isten Az Úton
+│   │   ├── 03 Elmondom Majd
+│   │   ├── 04 Csillagúton Jöttem
+│   │   └── 08 Szeretnék Hozzád Visszatalálni
 │   └── Örökség
-│       └── 01 Táltos Örökség
+│       ├── 01 Táltos Örökség
+│       ├── 04 Kirakatváros
+│       ├── 05 Szerelemre Éhes
+│       ├── 07 A Mese
+│       ├── 09 Bánat Blues
+│       └── 11 Régóta Vártam
 ├── Eisbrecher
 │   └── Schock
 │       └── 01 Volle Kraft voraus
@@ -1849,4 +1864,4 @@
     └── 雙面飛輪海
         └── 07 心裡有數
 
-677 directories, 1172 files
+680 directories, 1184 files

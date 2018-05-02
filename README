@@ -10,6 +10,9 @@
 │   │   └── 03 Hope
 │   └── All for What.._
 │       └── 01 Run a Check
+├── ADAM project
+│   └── Forbidden Love
+│       └── 01 Forbidden Love
 ├── AGA-INI
 │   ├── Алгачкы Сүйүү
 │   │   └── 01 Алгачкы Сүйүү
@@ -84,6 +87,11 @@
 ├── Air
 │   └── Moon Safari
 │       └── 01 La Femme D'argent
+├── Alekseev
+│   ├── Forever
+│   │   └── 01 Forever
+│   └── Пьяное солнце
+│       └── 03 Пьяное солнце
 ├── Alex Gardner
 │   ├── Feeling Fine
 │   │   └── 01 Feeling Fine
@@ -164,10 +172,16 @@
 │   └── Ya Lili
 │       └── 01 Ya Lili
 ├── Benom
-│   ├── Balki tun
-│   │   └── 01 Balki tun
-│   └── Yog'adi yomg'ir
-│       └── 01 Yog'adi yomg'ir
+│   └── Balki tun
+│       └── 01 Balki tun
+├── Benom guruhi
+│   └── Salom
+│       ├── 03 Ishq
+│       ├── 07 Sen Yig'lama
+│       └── 11 Yog'adi Yomg'ir
+├── Bikini
+│   └── The very best of Bikini
+│       └── 1-02 Lóhere
 ├── Billy Talent
 │   ├── Billy Talent II
 │   │   ├── 02 Red Flag
@@ -367,6 +381,9 @@
 ├── Dita Von Teese
 │   └── Disintegration
 │       └── 01 Disintegration
+├── DoReDoS
+│   └── Eurovision Song Contest Lisbon 2018
+│       └── 29 My Lucky Day
 ├── Duran Duran
 │   └── Astronaut
 │       ├── 01 (Reach Up For The) Sunrise
@@ -392,7 +409,8 @@
 │   ├── Isten Az Úton
 │   │   ├── 03 Elmondom Majd
 │   │   ├── 04 Csillagúton Jöttem
-│   │   └── 08 Szeretnék Hozzád Visszatalálni
+│   │   ├── 08 Szeretnék Hozzád Visszatalálni
+│   │   └── 13 Himnusz
 │   └── Örökség
 │       ├── 01 Táltos Örökség
 │       ├── 04 Kirakatváros
@@ -426,6 +444,9 @@
 │       ├── 02 Borodin_ Symphony No. 2 in B minor - II. Scherzo. Prestissimo - Allegretto
 │       ├── 03 Borodin_ Symphony No. 2 in B minor - III. Andante
 │       └── 04 Borodin_ Symphony No. 2 in B minor - IV. Finale. Allegro
+├── Fabrizio Moro, Ermal Meta
+│   └── Non mi avete fatto niente
+│       └── 01 Non mi avete fatto niente
 ├── Flёur
 │   ├── Всё вышло из-под контроля
 │   │   └── 04 Память
@@ -1045,6 +1066,10 @@
 │   │   └── 09 La Mia Missione
 │   └── Musica
 │       └── 01 Stai Con Me
+├── Parov Stelar
+│   └── The Art of Sampling
+│       ├── 06 Catgroove
+│       └── 12 Matilda
 ├── Pendulum
 │   ├── Immersion
 │   │   ├── 01 Genesis
@@ -1083,6 +1108,9 @@
 │   │   └── 01 Gəl Gedək
 │   └── Mən və sən
 │       └── 01 Mən və sən
+├── Queen
+│   └── Queen Forever
+│       └── 2-13 Too Much Love Will Kill You
 ├── Quvenzhané Wallis
 │   └── Annie Film Soundtrack
 │       └── 04 Tomorrow
@@ -1487,6 +1515,8 @@
 │       └── 18 Fiddle Me This
 ├── Yusuf Güney
 │   └── Aşka İnat
+│       ├── 02 Unut Onu Kalbim
+│       ├── 03 Aşka İnat
 │       └── 05 Bir Deli Aşık
 ├── amazarashi
 │   └── Sekaishuusoku Niichiichiroku
@@ -1655,12 +1685,18 @@
 │   └── Новинки
 │       ├── 24 В Питере — пить
 │       └── 25 Суходрочка
+├── Ли Сергей
+│   └── Ромео и Джульетта
+│       └── 14 Как мне сказать
 ├── Любовь Успенская
 │   └── К единственному, нежному
 │       └── 05 К единственному, нежному
 ├── Людмила Гурченко
 │   └── Молитва
 │       └── 01 Молитва
+├── Макс ИвАнов
+│   └── Акустика 2
+│       └── 10 На самом деле
 ├── Мери Бойс Бенд
 │   └── Непознати улици
 │       └── 01 Непознати улици
@@ -1759,6 +1795,9 @@
 ├── Уладзімір Мулявін
 │   └── Малітва
 │       └── 01 Малітва
+├── Филипп Киркоров
+│   └── Цвет настроения синий
+│       └── 01 Цвет настроения синий
 ├── Эпидемия
 │   └── Сокровище Энии
 │       ├── 01 Опус
@@ -1842,8 +1881,10 @@
 │   └── 美しすぎて Beautiful Eyes
 │       └── 01 美しすぎて Beautiful Eyes
 ├── マリス・ミゼル
-│   └── Merveilles
-│       └── 07 Au Revoir
+│   ├── Merveilles
+│   │   └── 07 Au Revoir
+│   └── Voyage sans retour
+│       └── 02 Premier Amour
 ├── 中孝介
 │   └── The Best of Kousuke Atari
 │       ├── 1-03 花
@@ -1866,12 +1907,18 @@
 ├── 桑田佳祐
 │   └── I Love YOU -Now & Forever-
 │       └── 2-15 愛しい人へ捧ぐ歌
+├── 梶 芽衣子
+│   └── きょうの我が身は・・・・・・
+│       └── 12 命日
 ├── 許魏洲
 │   └── LIGHT
 │       └── 01 慢慢走
 ├── 许魏洲，黃景瑜
 │   └── 海若有因
 │       └── 01 海若有因
+├── 鄧麗君
+│   └── _Huai Nian Wu Nian_ Teresa Teng Shi Shi Wu Zhou Nian Ji Nian Ji
+│       └── 2-04 我只在乎你
 ├── 雨宮天
 │   └── Tsuki Akari
 │       └── 01 月灯り
@@ -1879,4 +1926,4 @@
     └── 雙面飛輪海
         └── 07 心裡有數
 
-687 directories, 1192 files
+714 directories, 1212 files

@@ -231,6 +231,9 @@
 │       ├── 22 Chopin_ Étude Op. 25, No. 10, in B minor
 │       ├── 23 Chopin_ Étude Op. 25, No. 11, in A minor
 │       └── 24 Chopin_ Étude Op. 25, No. 12, in C minor
+├── Bruno Pelletier
+│   └── Dracula Entre l_amour et la mort
+│       └── 01 Nous Sommes Ce Que Nous Sommes
 ├── Bushido
 │   ├── 7
 │   │   ├── 06 Dieser eine Wunsch
@@ -939,8 +942,10 @@
 │   │   ├── 05 Glücklich
 │   │   ├── 09 Es regnet Blut
 │   │   └── 14 Egal wohin
-│   └── Refugium
-│       └── 04 Das Wunder des Lebens
+│   ├── Refugium
+│   │   └── 04 Das Wunder des Lebens
+│   └── Staub & Asche
+│       └── 01 Im Innern
 ├── Marisa Monte
 │   └── Verão 2009
 │       └── 05 Não É Proibido
@@ -1879,9 +1884,9 @@
 │       └── 01 موطني
 ├── ಭೀಮಸೇನ ಜೋಷಿ
 │   ├── ಕರುಣಿಸೋ ರಂಗಾ
-│   │   └── ಕರುಣಿಸೋ ರಂಗಾ
+│   │   └── 01 ಕರುಣಿಸೋ ರಂಗಾ
 │   └── ಯಾಕೆ ಮೂಕನಾದ್ಯೋ ಗುರುವೆ
-│       └── ಯಾಕೆ ಮೂಕನಾದ್ಯೋ ಗುರುವೆ
+│       └── 01 ಯಾಕೆ ಮೂಕನಾದ್ಯೋ ಗುರುವೆ
 ├── ლელა წურწუმია
 │   ├── დაკარგული წლები
 │   │   └── 01 დაკარგული წლები
@@ -1969,4 +1974,4 @@
     └── 雙面飛輪海
         └── 07 心裡有數
 
-742 directories, 1227 files
+745 directories, 1229 files

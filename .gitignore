@@ -1,0 +1,8 @@
+.DS_Store
+spotify_playlists
+build/*
+!build/itunes.json
+!build/itunes_match_list
+!build/onedrive.json
+!build/spotify.json
+!build/spotify_playlists.json

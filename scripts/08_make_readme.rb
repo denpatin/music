@@ -1,6 +1,27 @@
 #!/usr/bin/env ruby
 require "find"
 
+if ARGV.include?("--flatten")
+  lines = STDIN.read.lines.map(&:chomp)
+  lines.shift if lines.first == "Music Library"
+  parsed = []
+  lines.each do |line|
+    m = line.match(/\A((?:(?:│   )|(?:    ))*)(?:├── |└── )(.*)\z/)
+    next unless m
+    parsed << [m[1].length / 4, m[2]]
+  end
+  stack = []
+  out = []
+  parsed.each_with_index do |(depth, name), i|
+    stack = stack[0, depth]
+    stack[depth] = name
+    nxt = parsed[i + 1]
+    out << stack.join("\u0001") if nxt.nil? || nxt[0] <= depth
+  end
+  puts out.sort.uniq
+  exit
+end
+
 MEDIA = ["~/Music/Music/Media.localized", "~/Music/Music/Media"]
         .map { |p| File.expand_path(p) }
         .find { |p| Dir.exist?(p) }

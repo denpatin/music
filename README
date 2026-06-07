@@ -1437,8 +1437,13 @@ Music Library
 │   │   ├── 01 A Hírvivő
 │   │   └── 04 Magyarnak Születni
 │   ├── A Szerelem Hullámhosszán
+│   │   ├── 01 Érzés
+│   │   ├── 03 Amikor Még
+│   │   ├── 04 Újra Láttalak
 │   │   └── 15 Elmondom Majd
 │   ├── A Sólyom Népe
+│   │   ├── 01 A Sólyom Népe
+│   │   ├── 03 Állj Mellém
 │   │   └── 09 Kozmikus Magány
 │   ├── Az Edda két arca
 │   │   └── 1-10 Álmodtam
@@ -1455,6 +1460,8 @@ Music Library
 │   │   ├── 05 Séta a múltban
 │   │   └── 13 Egy rész a szívemből
 │   ├── Isten az úton
+│   │   ├── 04 Csillagúton Jöttem
+│   │   ├── 08 Szeretnék Hozzád Visszatalálni
 │   │   └── 13 Himnusz
 │   ├── Lírák II_
 │   │   └── 08 Lelkünkből
@@ -1464,7 +1471,12 @@ Music Library
 │   │   ├── 09 Újra És Újra (A Vonzalom)
 │   │   └── 12 A Csend Igazsága (A Csend)
 │   └── Örökség
-│       └── 01 Táltos örökség
+│       ├── 01 Táltos örökség
+│       ├── 04 Kirakatváros
+│       ├── 05 Szerelemre Éhes
+│       ├── 07 A Mese
+│       ├── 09 Bánat Blues
+│       └── 11 Régóta Vártam
 ├── Edenbridge
 │   └── For Your Eyes Only
 │       └── 01 For Your Eyes Only
@@ -1474,6 +1486,9 @@ Music Library
 ├── Eisblume
 │   └── Unter dem Eis
 │       └── 03 Zeit bleibt nicht stehen
+├── Eisbrecher
+│   └── Volle Kraft voraus - EP
+│       └── 01 Volle Kraft voraus
 ├── Elaine
 │   └── Under the Queen's Umbrella, Pt. 1 (Original Television Soundtrack) - Single
 │       └── 01 Child
@@ -1485,7 +1500,8 @@ Music Library
 │       └── Ya Ali
 ├── Elton John
 │   ├── Made in England
-│   │   └── 01 Believe
+│   │   ├── 01 Believe
+│   │   └── 07 Latitude
 │   └── The Road to El Dorado
 │       ├── 02 Someday Out of the Blue (theme from El Dorado)
 │       ├── 04 Friends Never Say Goodbye

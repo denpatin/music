@@ -151,9 +151,6 @@ Music Library
 ├── Akmal'
 │   └── Мир нам завидовал - Single
 │       └── 01 Мир нам завидовал
-├── Al Bano Carrisi
-│   └── Di rose e di spine
-│       └── 2-14 Amanda è libera
 ├── Alan Walker
 │   └── Sing Me to Sleep - Single
 │       └── 01 Sing Me to Sleep
@@ -219,13 +216,11 @@ Music Library
 │   └── The Complete Pop Albums
 │       └── 2-07 Vivo Per Lei
 ├── Andreas Bourani
-│   ├── Hey (Live)
-│   │   ├── 07 Hey (Live)
-│   │   ├── 08 Ultraleicht (Live)
-│   │   ├── 11 Nimm meine Hand (Live)
-│   │   └── 14 Was tut dir gut (Live)
-│   └── Hey - Single
-│       └── 02 Hey (Live)
+│   └── Hey (Live)
+│       ├── 07 Hey (Live)
+│       ├── 08 Ultraleicht (Live)
+│       ├── 11 Nimm meine Hand (Live)
+│       └── 14 Was tut dir gut (Live)
 ├── Andreas Martin
 │   └── Stark_ Wie alles begann
 │       ├── 1-14 Wo liegt das Ziel deiner Reise
@@ -478,9 +473,7 @@ Music Library
 ├── Bushido
 │   ├── 7
 │   │   ├── 06 Dieser eine Wunsch
-│   │   ├── 06 Dieser eine Wunsch 1
-│   │   ├── 19 Leben, das du nicht kennst
-│   │   └── 19 Leben, das du nicht kennst 1
+│   │   └── 19 Leben, das du nicht kennst
 │   ├── AMYF (Premium Edition)
 │   │   └── 03 Lebende Legende
 │   ├── Heavy Metal Payback
@@ -748,9 +741,7 @@ Music Library
 │   ├── Eurovision Song Contest_ Helsinki 2007
 │   │   ├── 1-03 Anytime You Need (Armenia)
 │   │   ├── 2-04 Valentine Lost (Iceland)
-│   │   ├── 2-16 Molitva (Serbia)
-│   │   ├── 2-16 Molitva (Serbia) 1
-│   │   └── 2-16 Molitva (Serbia) 2
+│   │   └── 2-16 Molitva (Serbia)
 │   ├── Eurovision Song Contest_ Malmö 2013
 │   │   ├── 1-18 Alcohol Is Free (Greece)
 │   │   └── 2-07 O mie (Moldova)
@@ -836,8 +827,6 @@ Music Library
 │   │   └── 03 Joka päivä ja joka ikinen yö
 │   ├── Jounetsu No 2000's Best Hits 35 Songs! - Epic35
 │   │   └── 28 Hana
-│   ├── KFOG_ Live From the Archives 19
-│   │   └── 01 Silenced by the Night
 │   ├── Kad mi dođeš ti
 │   │   └── 02 Kad mi dođeš ti
 │   ├── Karajan - 1970s, Vol. 3
@@ -1499,7 +1488,7 @@ Music Library
 │   ├── In the Nightside Eclipse
 │   │   └── 05 Towards the Pantheon
 │   └── Live Inferno
-│       └── 1-08 Towards the Pantheon
+│       └── 1-08 Towards the Pantheon (Live)
 ├── Enej
 │   └── Folkhorod
 │       └── 06 Skrzydlate ręce
@@ -2004,8 +1993,6 @@ Music Library
 │       ├── 03 Érted Élni
 │       └── 08 Apáink Útján
 ├── Keane
-│   ├── 2005‐04‐30_ Coachella, Empire Polo Club, Indio, CA, USA
-│   │   └── 05 She Has No Time
 │   ├── Bedshaped
 │   │   └── 02 Something in Me Was Dying
 │   ├── Call Me What You Like
@@ -2019,13 +2006,11 @@ Music Library
 │   │   ├── 02 This Is the Last Time
 │   │   ├── 03 Bend and Break
 │   │   ├── 04 We Might as Well Be Strangers
-│   │   ├── 04 We Might as Well Be Strangers 1
 │   │   ├── 05 Everybody's Changing
 │   │   ├── 06 Your Eyes Open
 │   │   ├── 07 She Has No Time
 │   │   ├── 08 Can't Stop Now
 │   │   ├── 09 Sunshine
-│   │   ├── 1-03 Bend and Break
 │   │   ├── 1-12 Snowed Under
 │   │   ├── 11 Bedshaped
 │   │   └── 2-04 Bedshaped (live at RFM)
@@ -2061,8 +2046,6 @@ Music Library
 │   │   ├── 15 The Boys
 │   │   └── 16 It_s Not True
 │   ├── The Best of Keane
-│   │   ├── 1-10 Crystal Ball
-│   │   ├── 1-12 Try Again
 │   │   ├── 1-14 Perfect Symmetry
 │   │   ├── 1-19 Higher Than the Sun
 │   │   ├── 1-20 Won_t Be Broken
@@ -2486,7 +2469,6 @@ Music Library
 │   │   ├── 03 Ayıp Olmaz mı_
 │   │   ├── 04 Şirket
 │   │   ├── 05 Küçük Sevgilim
-│   │   ├── 05 Küçük Sevgilim 1
 │   │   ├── 06 Durma Öyle
 │   │   ├── 11 Çocuklar ve Hayvanlar
 │   │   └── 12 Büyük Düşler
@@ -3776,24 +3758,24 @@ Music Library
 ├── Êî›íè
 │   └── Unknown Album
 │       └── Íàïå›åãîíêè ñ âåò›îì
-├── Ëè Ñå›ãåé
-│   └── ‹îìåî è Äæóëüåòòà (‹óññêàÿ âå›ñèÿ) (CD 2)
-│       └── 14 Êàê ìíå ñêàçàòü
+├── Ëè Ñåðãåé
+│   └── Ðîìåî è Äæóëüåòòà (Ðóññêàÿ âåðñèÿ) (CD 2)
+│       └── 14 Êàê ìíå ñêàçàòü
 ├── Ìàêñ ÈâÀíîâ
 │   └── Àêóñòèêà 2
 │       └── 10 Íà ñàìîì äåëå
 ├── Íåèçâåñòíûé
 │   └── Íåèçâåñòíûé
-│       └── Ïåñíÿ î ï›îã›àììèñòñêîé ìîëîäîñòè
+│       └── Ïåñíÿ î ïðîãðàììèñòñêîé ìîëîäîñòè
 ├── Íèêîëàé Íîñêîâ
 │   └── Unknown Album
 │       └── Ï›îïàâøèì áåç âåñòè
 ├── Ïåñíÿ›û
 │   └── Unknown Album
 │       └── Ìàë_òâà
-├── Ñó›ãàíîâà è Î›êåñò›
-│   └── Èã›à â êëàññêèê
-│       └── 08 Ñêàçêà
+├── Ñóðãàíîâà è Îðêåñòð
+│   └── Èãðà â êëàññêèê
+│       └── 08 Ñêàçêà
 ├── ÕÀÉ‹ÓËÀ
 │   └── Unknown Album
 │       └── Ëåçãè ›óøà›
@@ -3885,6 +3867,9 @@ Music Library
 │   └── Метель _ Пушкинский Венок
 │       ├── 01 Метель_ 1. Тройка
 │       └── 06 Метель_ 6. Военный марш
+├── Георгий Гозоев, Радион Гуларов & Инал Гучмазов
+│   └── Аз дау мысын - Single
+│       └── 01 Аз дау мысын
 ├── Григорий Лепс
 │   └── Водопад
 │       └── 14 Я тебе не верю (feat. Ирина Аллегрова)
@@ -4051,9 +4036,6 @@ Music Library
 ├── სოფო ბათილაშვილი
 │   └── Periphrase
 │       └── 01 Iagundi (Ruby)
-├── ‹óñòàì Äæèõàåâ
-│   └── Unknown Album
-│       └── Àç äàó ìûñûí
 ├── いきものがかり
 │   ├── Life Album
 │   │   ├── 02 Akaneiro no Yakusoku

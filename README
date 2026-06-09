@@ -582,7 +582,8 @@ Music Library
 │   ├── 5×20 All the BEST!! 1999-2019 (Special Edition)
 │   │   ├── 2-09 One Love
 │   │   ├── 2-10 truth
-│   │   └── 2-12 Beautiful days
+│   │   ├── 2-12 Beautiful days
+│   │   └── 2-15 Crazy Moon〜キミ・ハ・ムテキ〜
 │   ├── 60's Gold
 │   │   └── 2-13 Love Is Blue
 │   ├── 61. Festival Zabavne Glazbe - Splitski Festival 2021_
@@ -1036,6 +1037,8 @@ Music Library
 │   │   └── 09 Don't You (Forget About Me)
 │   ├── The Best of Keane (Deluxe)
 │   │   └── 2-02 Walnut Tree
+│   ├── The Best of Kousuke Atari
+│   │   └── 1-03 花
 │   ├── The Best of Slayers_ From TV & Radio
 │   │   └── 1-05 Give a Reason
 │   ├── The Brahms I Love
@@ -1608,6 +1611,9 @@ Music Library
 │   └── Schumann_ Kreisleriana & Fantasy Op. 17
 │       ├── 01 Kreisleriana, Op. 16_ Äußerst bewegt
 │       └── 09 Kreisleriana, Op. 16_ Sehr rasch; Noch schneller
+├── Fahrenheit
+│   └── 雙面飛輪海
+│       └── 07 心裡有數
 ├── Famy
 │   └── We Fam Econo
 │       └── 11 Ava
@@ -3350,6 +3356,9 @@ Music Library
 │       ├── 01 Concerto no. 2 in G minor, op. 22_ I. Andante sostenuto
 │       ├── 02 Concerto no. 2 in G minor, op. 22_ II. Allegro scherzando
 │       └── 03 Concerto no. 2 in G minor, op. 22_ III. Presto
+├── Sam Lee
+│   └── 絕對痴心.手放開
+│       └── 1-01 痴心絕對
 ├── Sambomaster
 │   └── Sambomaster Wa Kimini Katarikakeru
 │       └── 02 Seishun Kyousoukyoku
@@ -3538,6 +3547,9 @@ Music Library
 ├── Sophie Ellis‐Bextor
 │   └── Wanderlust
 │       └── 1-01 Birth of an Empire
+├── Sora Amamiya
+│   └── Tsukiakari - Single
+│       └── 01 Tsukiakari
 ├── Spitfire
 │   └── Thrills and Kills
 │       └── 07 Обыватель
@@ -3670,6 +3682,8 @@ Music Library
 │   └── pieces
 │       └── 01 Sonna Anata ni
 ├── Teresa Teng
+│   ├── Heart to Heart_ Teresa Teng Reimagined
+│   │   └── 14 我只在乎你
 │   └── 復黑王_ 甜蜜蜜
 │       └── 01 甜蜜蜜
 ├── The Beach Boys
@@ -3982,6 +3996,7 @@ Music Library
 │       ├── 07 Pulse 04
 │       ├── 08 Falling
 │       ├── 09 What I Need
+│       ├── 10 One More Time
 │       └── 11 White Shadow
 ├── Vészkijárat
 │   └── Unknown Album
@@ -4004,6 +4019,9 @@ Music Library
 ├── WeiBird
 │   └── Red Scarf (_Till We Meet Again_ Movie Theme Song) - Single
 │       └── 01 Red Scarf (_Till We Meet Again_ Movie Theme Song)
+├── Wellhello
+│   └── Rakpart - Single
+│       └── 01 Rakpart
 ├── Wincent Weiss
 │   ├── Irgendwie anders (Deluxe)
 │   │   ├── 1-06 Hier mit dir
@@ -4049,6 +4067,15 @@ Music Library
 │       ├── 01 Shippuden
 │       ├── 03 Homecoming
 │       └── 08 Departure to the Front Lines
+├── Yelawolf
+│   └── Love Story
+│       ├── 04 Whiskey in a Bottle
+│       ├── 06 Till It's Gone
+│       ├── 09 Empty Bottles
+│       ├── 10 Heartbreak
+│       ├── 13 Love Story
+│       ├── 17 Disappear
+│       └── 18 Fiddle Me This
 ├── Ylvis
 │   └── The Fox (What Does the Fox Say_) - Single
 │       └── 01 The Fox (What Does the Fox Say_)
@@ -4058,7 +4085,8 @@ Music Library
 ├── Yusuf Güney
 │   └── Aşka İnat
 │       ├── 02 Unut Onu Kalbim
-│       └── 03 Aşka İnat (feat. Rafet El Roman & Eren Atasoy)
+│       ├── 03 Aşka İnat (feat. Rafet El Roman & Eren Atasoy)
+│       └── 05 Bir Deli Aşık
 ├── Yuuri
 │   ├── Dried Flower - Single
 │   │   └── 01 Dried Flower
@@ -4101,6 +4129,8 @@ Music Library
 │       └── 01 能不能和我留在台北(陪我幾天)
 ├── jealkb
 │   ├── ROSES
+│   │   ├── 01 薔薇の棘と指先の血と
+│   │   ├── 04 metronome (album vox)
 │   │   └── 1-09 How much is your love
 │   ├── Unknown Album
 │   │   ├── D.D.D.

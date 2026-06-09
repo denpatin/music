@@ -903,6 +903,8 @@ Music Library
 │   │   └── 17 Applause
 │   ├── Mood Booster Mix
 │   │   └── 09 Usseewa
+│   ├── Most Wanted_ The Greatest Hits (Extended Deluxe)
+│   │   └── 2-03 We Own The Night (Acoustic)
 │   ├── Música Clásica y Lluvia
 │   │   └── 02 4 Impromptus, D. 899 (, Op. 90)_ No. 3 in G-Flat Major. Andante
 │   ├── Músicas Pop para Malhar _ Academia 2023
@@ -1062,12 +1064,16 @@ Music Library
 │   │   ├── 1-01 Piano Concerto in E major, op. 59_ I. Moderato
 │   │   ├── 1-02 Piano Concerto in E major, op. 59_ II. Andante
 │   │   └── 1-03 Piano Concerto in E major, op. 59_ III. Scherzo. Vivace
+│   ├── The Studio Album Collection
+│   │   └── 4-05 Enemies
 │   ├── The Twilight Saga_ New Moon
 │   │   └── 01 Meet Me on the Equinox
 │   ├── The Ultimate Dance Top 100 2007
 │   │   └── 5-04 The Sound Of Goodbye
 │   ├── The Very Best of Enya (Deluxe Video Edition)
 │   │   └── 22 Aniron
+│   ├── The Wanted (Special Edition)
+│   │   └── 04 Satellite
 │   ├── The best of Tony Cetinski (Dvostruki album)
 │   │   └── 1-09 Blago Onom Tko Te Ima
 │   ├── Tomorrowland 2012 Volume 1
@@ -1102,6 +1108,10 @@ Music Library
 │   │   └── 08 Der Sonne entgegen
 │   ├── Weihnachten 2026
 │   │   └── 15 Weihnachten zu zweit
+│   ├── Word of Mouth (Deluxe Version)
+│   │   ├── 02 In the Middle
+│   │   ├── 05 Show Me Love (America)
+│   │   └── 15 If We're Alright
 │   ├── Y100精選 (Evil版)
 │   │   └── 1-11 最佳損友
 │   ├── Zaljubljen
@@ -3420,7 +3430,9 @@ Music Library
 │   │   ├── 05 I Don't Even Know Your Name
 │   │   ├── 06 Something Big
 │   │   ├── 08 Aftertaste
-│   │   └── 12 This Is What It Takes
+│   │   ├── 12 This Is What It Takes
+│   │   ├── 14 Imagination
+│   │   └── 15 The Weight
 │   └── Handwritten (Revisited)
 │       └── 07 Strings (Live)
 ├── Sheep and sheep
@@ -3462,12 +3474,16 @@ Music Library
 │   │   └── 02 Big Girls Cry
 │   ├── Chandelier
 │   │   └── 01 Chandelier
-│   └── Some People Have Real Problems
-│       ├── 07 I Go to Sleep
-│       └── 10 Soon We_ll Be Found
+│   ├── Some People Have Real Problems
+│   │   ├── 07 I Go to Sleep
+│   │   └── 10 Soon We_ll Be Found
+│   └── This Is Acting (Deluxe Version)
+│       └── 05 Unstoppable
 ├── Sido
-│   └── Ich und meine Maske
-│       └── 1-09 Herz
+│   ├── Ich und meine Maske
+│   │   └── 1-09 Herz
+│   └── VI (Deluxe)
+│       └── 04 Astronaut (feat. Andreas Bourani)
 ├── Silent Descent
 │   └── Duplicity
 │       └── 11 In the Skies
@@ -3478,10 +3494,15 @@ Music Library
 │   └── Bitter
 │       └── 02 Мост
 ├── Simple Minds
-│   └── Once Upon a Time
-│       └── 02 All the Things She Said
+│   ├── New Gold Dream (81_82_83_84)
+│   │   └── 1-03 Promised You a Miracle (Remastered)
+│   ├── Once Upon a Time
+│   │   └── 02 All the Things She Said
+│   └── Once Upon a Time (Super Deluxe)
+│       └── 1-04 Alive and Kicking
 ├── Simple Plan
 │   └── Simple Plan
+│       ├── 01 When I'm Gone
 │       ├── 04 Your Love Is a Lie
 │       └── 05 Save You
 ├── Sinfonia Lahti & Okko Kamu
@@ -3496,12 +3517,19 @@ Music Library
 ├── Sonata Arctica
 │   ├── Ecliptica
 │   │   └── 05 Kingdom for a Heart
+│   ├── Ecliptica (2008 Edition)
+│   │   ├── 01 Blank File
+│   │   ├── 02 My Land
+│   │   └── 04 Replica
 │   ├── Pariah_s Child
 │   │   ├── 03 Take One Breath
 │   │   └── 04 Cloud Factory
 │   └── Reckoning Night
 │       ├── 05 Don't Say a Word
 │       └── 07 My Selene
+├── Sophie Ellis-Bextor
+│   └── Wanderlust (Deluxe Wandermix Version)
+│       └── 09 Love Is a Camera
 ├── Sophie Ellis‐Bextor
 │   └── Wanderlust
 │       └── 1-01 Birth of an Empire
@@ -3543,7 +3571,10 @@ Music Library
 ├── Strachy na Lachy
 │   ├── !TO!
 │   │   ├── 02 Sympatyczny atrament
-│   │   └── 05 I Can't Get No Gratisfaction
+│   │   ├── 03 Bankrut Bankrutowi
+│   │   ├── 05 I Can't Get No Gratisfaction
+│   │   ├── 07 Jaka Piękna Katastrofa
+│   │   └── 10 Żeby z Tobą być
 │   └── Piła tango
 │       └── 05 Niecodzienny szczon
 ├── Stratovarius
@@ -3580,9 +3611,17 @@ Music Library
 │   └── Visszafordíthatatlan
 │       └── 10 Csak Egy Toll
 ├── Sündenklang
+│   ├── Brief an Gott - Single
+│   │   └── 01 Brief an Gott
 │   └── Tränenreich
 │       ├── 01 Lieber sterben
 │       ├── 02 Kreuzzug
+│       ├── 04 Welle
+│       ├── 05 Die Sehnsucht tanzt
+│       ├── 06 Mach mich glücklich
+│       ├── 07 Die Welt steht still
+│       ├── 08 Im Unterholz
+│       ├── 09 Krieger
 │       └── 10 Wenn mein Herz schreit
 ├── T-Short
 │   └── Aripi Să Pot Zbura
@@ -3653,6 +3692,8 @@ Music Library
 │   └── The March Ahead
 │       └── 02 I.R.T.S.
 ├── The Rasmus
+│   ├── Black Roses
+│   │   └── 01 Livin' in a World Without You
 │   └── Livin_ in a World Without You
 │       └── 02 Livin_ in a World Without You (acoustic version)
 ├── The Strokes
@@ -3669,6 +3710,15 @@ Music Library
 ├── The Vamps
 │   └── Meet the Vamps (Christmas Edition)
 │       └── 12 Can We Dance
+├── The Wanted
+│   ├── Chasing the Sun - EP
+│   │   └── 01 Chasing the Sun
+│   ├── I Found You - EP
+│   │   └── 04 I Found You (DC Breaks Remix)
+│   ├── Most Wanted_ The Greatest Hits (Deluxe)
+│   │   └── 1-12 Walks Like Rihanna (2021 Master)
+│   └── Word of Mouth
+│       └── 10 Demons
 ├── Thirty Seconds to Mars
 │   └── A Beautiful Lie
 │       ├── 1-01 Attack
@@ -3715,6 +3765,12 @@ Music Library
 ├── Toto & Foreigner
 │   └── The Very Best of Toto & Foreigner
 │       └── 2-15 Break It Up
+├── Trio Sucupira
+│   └── Até o Dia Clarear
+│       └── 01 Até o Dia Clarear
+├── Troye Sivan
+│   └── Blue Neighbourhood
+│       └── 07 TALK ME DOWN
 ├── Tuấn Hưng
 │   └── Vũ Điệu Thần Tiên, Vol. 1
 │       └── 05 Xa Vắng
